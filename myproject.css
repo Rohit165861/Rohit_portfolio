@@ -3,7 +3,7 @@ body {
   }
   .header{
       background-color:rgb(229, 229, 240);
-      height:90px; 
+      height:140px; 
       width:100%;
       
   }
@@ -11,10 +11,10 @@ body {
       font-size: 36px;
       font-family:inherit;
       color:rgb(14, 13, 13);
-      padding: 24px 40px;
+      padding: 45px 40px;
       float:left;
       font-weight: lighter;
-      background-color: lavender;
+      
   }
   li {
     list-style: none;
@@ -23,12 +23,11 @@ body {
       float:right;
       margin-right: -25px;
       font-weight: bolder;
-      padding:35px 35px;
+      padding:25px 35px;
   }
   a{
     text-decoration: none;
     transition: all 0.5s;
-    display: block;
     padding:  0 25px;
 }
 a:hover{
@@ -53,10 +52,7 @@ a:hover{
     font-size: 20px;
     color:rgba(245, 234, 234, 0.795);
 }
-span{
-    color:lightcoral;
-    font-family:cursive;
-}
+
   .myproject{
     background-color: #3b5998;
     margin-right: 10px;
@@ -101,7 +97,12 @@ span{
       padding-bottom: 26px;  
       
   }
+  .menu-icon{
+      display:none;
+      color:rgb(229, 229, 240);
+  }
   
+
   
  
 
