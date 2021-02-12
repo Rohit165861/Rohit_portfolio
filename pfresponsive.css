@@ -1,0 +1,15 @@
+@media all and (max-width: 980px){
+    .menu-icon{
+      color:rgb(230, 75, 75);
+      float: right;
+      font-size: 25px;
+      padding: 55px 25px;
+      display:block;
+  }
+      
+      .header-list{
+          display:  none;
+        }
+        
+    
+  }
